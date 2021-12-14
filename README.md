@@ -11,10 +11,11 @@ Future blocks will show blue,current time blocks show red, and past time blocks 
 * Bootstrap
 
 # Website
+![Screenshot (43)](https://user-images.githubusercontent.com/92316250/146061842-8df3cd87-e913-4303-a03c-686e707e543e.png)
 
 
 
-![Screenshot (42)](https://user-images.githubusercontent.com/92316250/146059897-829cc25b-ee5b-45c9-8a41-379ceae89fe0.png)
+
 
 # Contribution
 * Steven Cruz
