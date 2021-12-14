@@ -14,7 +14,7 @@ function colorChange () {
     var currentTime = moment().hours();
     console.log("Current Time" + currentTime);
        
-// How the blocks know if they are past, present or future
+// blocks know if they are past, present or future
     $(".input").each(function () {
         var scheduledTime = parseInt($(this).attr("id"));
         console.log(scheduledTime);
@@ -34,7 +34,7 @@ function colorChange () {
         }
     });
 }
-// Button functionality, variables for on save button click, .val() is where the text goes
+// Button functionality, variables for on save button click
 var eventText;
 var eventTime;
 
