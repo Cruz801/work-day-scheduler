@@ -11,7 +11,7 @@ Future blocks will show blue,current time blocks show red, and past time blocks 
 * Bootstrap
 
 # Website
-https://cruz801.github.io/work-day-scheduler/
+
 
 
 ![Screenshot (42)](https://user-images.githubusercontent.com/92316250/146059897-829cc25b-ee5b-45c9-8a41-379ceae89fe0.png)
