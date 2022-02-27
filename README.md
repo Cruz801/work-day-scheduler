@@ -19,4 +19,4 @@ Future blocks will show blue,current time blocks show red, and past time blocks 
 
 # Contribution
 * Steven Cruz
-* Got help with this from a tutor as well as did google searching and youtubing.
+
